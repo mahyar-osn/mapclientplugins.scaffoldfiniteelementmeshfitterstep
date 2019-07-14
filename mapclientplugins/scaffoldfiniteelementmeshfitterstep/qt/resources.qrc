@@ -1,0 +1,6 @@
+
+<RCC>
+  <qresource prefix="scaffoldfiniteelementmeshfitterstep">
+    <file>images/scaffoldFEFitter.png</file>
+  </qresource>
+</RCC>
